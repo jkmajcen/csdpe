@@ -2,6 +2,7 @@ csdpe
 =====
 
 C# Design Pattern Essentials - book source code
+https://abraxabooks.co.uk/product/3-c-design-pattern-essentials
 Source code revision date: 19 November 2012
 
 You will find included in each chapter subfolder the source code from the book.
